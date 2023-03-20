@@ -14,10 +14,10 @@ btw ternyata laragon enak uyy
 
 1. Install Laravel
    ```
-   laravel new Stock-Inventory
+   composer create-project laravel/laravel ceritakita
    ```
 2. Setting .env
    ```
    DB_CONNECTION=mysql
-   DB_DATABASE=stock-inventory
+   DB_DATABASE=ceritakita
    ```
